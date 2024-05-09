@@ -1,0 +1,21 @@
+npx create-react-app Project
+
+Bootstrap -> npm install bootstarp -> css , js
+
+fontawesome icons : npm i @fortawesome/fontawesome-free -> css
+
+Connect fontawesome cdn link to html page 
+
+axios -> npm install axios 
+
+react-router-dom -> npm install react-router-dom
+
+Components :- 
+    navbar 
+    contact-list 
+    view-contact
+    edit-contact
+    create-contact
+
+Services :-
+    contactService
