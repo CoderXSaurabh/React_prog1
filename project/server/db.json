@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "abcdef",
+      "name": "Saurabh Patil",
+      "company": "Accenture",
+      "email": "patilsaurabh5122001@gmail.com",
+      "title": "Developer",
+      "mobile": "9359140472",
+      "photo": "https://up.yimg.com/ib/th?id=OIP.NbXWTMinkdj7N_PRfqRthgHaHa&pid=Api&rs=1&c=1&qlt=95&w=105&h=105",
+      "groupId": "3"
+    },
+    {
+      "id": "abcdeg",
+      "name": "Nilesh Gaikwad",
+      "company": "Accenture",
+      "email": "nileshgaikwad121315@gmail.com",
+      "title": "Developer",
+      "mobile": "7776011322",
+      "photo": "https://tse2.explicit.bing.net/th?id=OIP.e1KNYwnuhNwNj7_-98yTRwHaF7&pid=Api&P=0&h=180",
+      "groupId": "2"
+    },
+    {
+      "id": "abcdeh",
+      "name": "Sejal Godse",
+      "company": "JSpiders",
+      "email": "sejalgodse1213@gmail.com",
+      "title": "Trainer",
+      "mobile": "8788137641",
+      "photo": "https://tse2.explicit.bing.net/th?id=OIP.e1KNYwnuhNwNj7_-98yTRwHaF7&pid=Api&P=0&h=180",
+      "groupId": "4"
+    },
+    {
+      "id": "abcdei",
+      "name": "Madhumati Mahakunde",
+      "company": "WNS",
+      "email": "mmhoney@gmail.com",
+      "title": "accountant",
+      "mobile": "9699036364",
+      "photo": "https://tse2.explicit.bing.net/th?id=OIP.e1KNYwnuhNwNj7_-98yTRwHaF7&pid=Api&P=0&h=180",
+      "groupId": "6"
+    },
+    {
+      "id": "bd77",
+      "name": "Ritesh Pedhekar",
+      "photo": "http://pluspng.com/img-png/user-png-icon-young-user-icon-2400.png",
+      "mobile": "9146168586",
+      "email": "riteshpedhekar554@gmail.com",
+      "company": "TCS",
+      "title": "software developer",
+      "groupId": "3"
+    },
+    {
+      "id": "3c47",
+      "name": "abc",
+      "photo": "http://pluspng.com/img-png/user-png-icon-young-user-icon-2400.png",
+      "mobile": "9090909090",
+      "email": "abc@gmail.com",
+      "company": "dskjnd",
+      "title": "worker",
+      "groupId": "6"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "collegue"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
