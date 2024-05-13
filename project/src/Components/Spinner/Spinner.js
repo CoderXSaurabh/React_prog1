@@ -1,5 +1,5 @@
 import React from "react";
-import spinnerImg from "../../assects/loading.gif"
+import spinnerImg from "../../assects/Hourglass.gif"
 let Spinner = ()=>{
     return(
         <React.Fragment>
